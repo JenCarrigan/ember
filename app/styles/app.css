@@ -1,6 +1,10 @@
 body {
   background-color: #fefefe;
   font-family: sans-serif;
-  margin: 7em;
   text-align: center;
+}
+
+img {
+  height: 200px;
+  padding-left: 40px; 
 }
