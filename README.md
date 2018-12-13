@@ -15,8 +15,8 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-test`
 * `npm install`
+* `npm install -g ember-cli`
 
 ## Running / Development
 
@@ -46,7 +46,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+* Do a basic deployment to an AWS S3 bucket or Heroku
 
 ## Further Reading / Useful Links
 
